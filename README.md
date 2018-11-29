@@ -1,3 +1,6 @@
+I CHANGED THIS PART OF THE FILE!!!!!!!
+
+
 Hello and welcome to the GitHub repo for The Coding Train website! This houses all of the content at [thecodingtrain.com](https://thecodingtrain.com) as well as source code for corresponding videos. The site welcomes contributions from the community in a variety of ways! More informations at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # Other links
@@ -8,7 +11,7 @@ Hello and welcome to the GitHub repo for The Coding Train website! This houses a
 
 # Live Streams
 
-Live streams are announced as events on YouTube, [please subscribe to get a notification](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw/subscribe)! 
+Live streams are announced as events on YouTube, [please subscribe to get a notification](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw/subscribe)!
 
 # Add your own variation
 
